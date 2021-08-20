@@ -91,7 +91,7 @@ path.current-floor {
 
 .main-info {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   flex-direction: column;
   flex-grow: 1;
