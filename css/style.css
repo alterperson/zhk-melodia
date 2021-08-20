@@ -17,8 +17,6 @@ body {
 }
 
 .header {
-  padding-top: 12px;
-  padding-bottom: 12px;
   background-color: #635854;
   border-bottom: 4px solid #3596f5;
 }
@@ -40,8 +38,8 @@ body {
 }
 
 .navbar-item {
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 28px;
+  margin-right: 28px;
 }
 
 .navbar-contacts {
@@ -57,8 +55,16 @@ body {
 }
 
 .navbar-link {
+  display: block;
+  padding: 12px;
+  font-size: 16px;
+  line-height: 19px;
   text-decoration: none;
   color: #fff;
+}
+
+.navbar-link:hover {
+  background-color: #3596f5;
 }
 
 .navbar-phone {
