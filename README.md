@@ -1,3 +1,3 @@
-# zhk-melodia--workshop
- Интенсив по верстке "Cайт Жилого Комплекса Мелодия" от Glo Academy - https://alterperson.github.io/zhk-melodia--gloAcademy/
+# zhk-melodia
+ Cайт Жилого Комплекса Мелодия - https://alterperson.github.io/zhk-melodia--gloAcademy/
 
